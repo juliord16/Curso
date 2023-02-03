@@ -1,0 +1,48 @@
+#Titulo{ 
+    font-family: 'Moon Dance', cursiva;
+    font-weight: bold;
+    text-decoration: underline;
+    color: rgb(0, 0, 0); 
+    text-indent: 1em;
+}
+#Titulo2{ 
+    font-family: 'Moon Dance', cursiva;
+    font-weight: bold;
+    text-decoration: underline;
+    color: rgb(0, 0, 0); 
+
+}
+
+
+#Date{ 
+    font-family: 'Moon Dance', cursiva;
+    font-size: 6;
+    margin: 30px;
+    font-weight: bold;
+    color: rgb(22, 46, 17); 
+}
+
+#Info{ 
+    font-family: 'Moon Dance',  ;
+    text-decoration: underline;
+    font-size: 1;
+
+    font-weight: bold;
+    color: rgb(12, 8, 1); 
+
+}
+
+#tex{ 
+    font-family: "font-family: serif" ;
+    color: rgb(12, 8, 1); 
+
+}
+
+p {
+    font-family: "Segoe UI";
+    text-indent:2em;
+  }
+  
+  .circular--square {
+    border-radius: 50%;
+  }
